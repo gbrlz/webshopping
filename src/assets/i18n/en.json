@@ -1,0 +1,13 @@
+{
+    "HEADER": {
+    "NOMBRE_EMPRESA": "Shop",
+    "HOME": "Home",
+    "PRODUCTOS": "Products",
+    "CONTACTO": "Contact",
+    "LOGIN": "Login",
+    "REGISTRO": "Register"
+    },
+
+    "FOOTER": {
+    }
+}
