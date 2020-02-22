@@ -1,5 +1,5 @@
 
-<nav class="navbar navbar-expand-lg navbar-light bg-light" id="topheader">
+<nav *ngIf="router.url !== '/login'" class="navbar navbar-expand-lg navbar-light bg-light" id="topheader">
   <div class="container-fluid">
   <a class="navbar-brand" href="#">{{ 'HEADER.NOMBRE_EMPRESA' | translate }}</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
