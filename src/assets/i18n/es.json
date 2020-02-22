@@ -1,13 +1,26 @@
 {
     "HEADER": {
-    "NOMBRE_EMPRESA": "Shop",
-    "HOME": "Inicio",
-    "PRODUCTOS": "Productos",
-    "CONTACTO": "Contacto",
-    "LOGIN": "Login",
-    "REGISTRO": "Registro"
+        "NOMBRE_EMPRESA": "Shop",
+        "HOME": "Inicio",
+        "PRODUCTOS": "Productos",
+        "CONTACTO": "Contacto",
+        "LOGIN": "Login",
+        "REGISTRO": "Registro"
     },
 
     "FOOTER": {
+    },
+
+    "LOGIN": {
+        "LOGIN": "Iniciar sesión",
+        "EMAIL": "Ingresa tu correo",
+        "PASSWORD": "Ingresa tu contraseña",
+        "RECORDARPASSWORD": "Recordar contraseña",
+
+        "EMAILREQ": "El email es requerido.",
+        "EMAILINVALIDO": "El email es inválido.",
+        
+        "PASSREQ": "La contraseña es requerida.",
+        "PASSINVALIDO": "La contraseña debe tener al menos 6 caracteres."
     }
 }

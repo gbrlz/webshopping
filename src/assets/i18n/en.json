@@ -9,5 +9,18 @@
     },
 
     "FOOTER": {
+    },
+
+    "LOGIN": {
+        "LOGIN": "Sign In",
+        "EMAIL": "Email address",
+        "PASSWORD": "Password",
+        "RECORDARPASSWORD": "Remember password",
+
+        "EMAILREQ": "Email is required.",
+        "EMAILINVALIDO": "Invalid email.",
+
+        "PASSREQ": "Password is required.",
+        "PASSINVALIDO": "Password must be at least 6 characters."
     }
 }
